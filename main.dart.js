@@ -34082,7 +34082,7 @@ $S:317}
 K.kw.prototype={
 gaA(a){return this.a}}
 K.qD.prototype={
-aT(){return new K.Gc(H.a([],t.rp),A.akG(P.a7P("ws://chat-app-server-azim.herokuapp.com"),null),C.x2,C.p)}}
+aT(){return new K.Gc(H.a([],t.rp),A.akG(P.a7P("wss://chat-app-server-azim.herokuapp.com"),null),C.x2,C.p)}}
 K.Gc.prototype={
 b8(){var s,r,q,p=this
 p.bE()
